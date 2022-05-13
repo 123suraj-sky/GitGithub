@@ -1,0 +1,4 @@
+1) select files in git bash to copy it i.e. if you just select lines in git bash it will be copied
+
+2) to put files in staging area we use "git add --a" or we can also use "git add ."
+
